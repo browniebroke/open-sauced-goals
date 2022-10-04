@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "brandtbucher/specialist",
+    "stargazers_count": 301,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "charliermarsh/ruff",
+    "stargazers_count": 2053,
+    "open_issues_count": 36,
+    "forks_count": 37
+  },
+  {
+    "full_name": "TheAlgorithms/Python",
+    "stargazers_count": 146058,
+    "open_issues_count": 147,
+    "forks_count": 37215
+  },
+  {
+    "full_name": "adamghill/django-fbv",
+    "stargazers_count": 31,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jefftriplett/django-startproject",
+    "stargazers_count": 73,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
+    "full_name": "pallets/quart",
+    "stargazers_count": 1384,
+    "open_issues_count": 8,
+    "forks_count": 82
+  },
+  {
+    "full_name": "jetpack-io/devbox",
+    "stargazers_count": 3876,
+    "open_issues_count": 40,
+    "forks_count": 49
+  },
+  {
+    "full_name": "pypa/hatch",
+    "stargazers_count": 3044,
+    "open_issues_count": 17,
+    "forks_count": 139
+  },
+  {
+    "full_name": "Kludex/gh-co-author",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "actions/github-script",
+    "stargazers_count": 2785,
+    "open_issues_count": 20,
+    "forks_count": 285
+  },
+  {
+    "full_name": "Opus10/django-pgtrigger",
+    "stargazers_count": 339,
+    "open_issues_count": 10,
+    "forks_count": 16
+  },
+  {
+    "full_name": "microsoft/AI-For-Beginners",
+    "stargazers_count": 2746,
+    "open_issues_count": 16,
+    "forks_count": 526
+  },
+  {
+    "full_name": "raimon49/pip-licenses",
+    "stargazers_count": 203,
+    "open_issues_count": 15,
+    "forks_count": 27
+  },
+  {
+    "full_name": "rtts/djhtml",
+    "stargazers_count": 349,
+    "open_issues_count": 5,
+    "forks_count": 21
+  },
+  {
+    "full_name": "Riverside-Healthcare/djLint",
+    "stargazers_count": 190,
+    "open_issues_count": 26,
+    "forks_count": 25
+  },
+  {
+    "full_name": "py-cov-action/python-coverage-comment-action",
+    "stargazers_count": 11,
+    "open_issues_count": 7,
+    "forks_count": 9
+  },
+  {
+    "full_name": "orgoro/coverage",
+    "stargazers_count": 20,
+    "open_issues_count": 5,
+    "forks_count": 5
+  },
+  {
+    "full_name": "moyix/fauxpilot",
+    "stargazers_count": 6430,
+    "open_issues_count": 22,
+    "forks_count": 256
+  },
+  {
+    "full_name": "shallwefootball/upload-s3-action",
+    "stargazers_count": 76,
+    "open_issues_count": 22,
+    "forks_count": 79
+  },
+  {
+    "full_name": "trpc/trpc",
+    "stargazers_count": 13597,
+    "open_issues_count": 81,
+    "forks_count": 420
+  },
+  {
+    "full_name": "jpsca/tcom",
+    "stargazers_count": 32,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "n3r4zzurr0/svg-spinners",
+    "stargazers_count": 4249,
+    "open_issues_count": 0,
+    "forks_count": 332
+  },
+  {
+    "full_name": "django-hijack/django-hijack",
+    "stargazers_count": 1161,
+    "open_issues_count": 7,
+    "forks_count": 151
+  },
+  {
+    "full_name": "urllib3/urllib3",
+    "stargazers_count": 3159,
+    "open_issues_count": 112,
+    "forks_count": 994
+  },
+  {
+    "full_name": "casey/just",
+    "stargazers_count": 7193,
+    "open_issues_count": 160,
+    "forks_count": 216
+  },
+  {
+    "full_name": "nithinmurali/pygsheets",
+    "stargazers_count": 1357,
+    "open_issues_count": 47,
+    "forks_count": 198
+  },
+  {
+    "full_name": "getsentry/sentry-cli",
+    "stargazers_count": 741,
+    "open_issues_count": 24,
+    "forks_count": 191
+  },
+  {
+    "full_name": "tonybaloney/perflint",
+    "stargazers_count": 423,
+    "open_issues_count": 9,
+    "forks_count": 7
+  },
+  {
+    "full_name": "GoogleChromeLabs/dark-mode-toggle",
+    "stargazers_count": 985,
+    "open_issues_count": 0,
+    "forks_count": 57
+  },
+  {
+    "full_name": "pypa/bandersnatch",
+    "stargazers_count": 325,
+    "open_issues_count": 35,
+    "forks_count": 117
+  }
+]
