@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "DonDebonair/slack-machine",
+    "stargazers_count": 688,
+    "open_issues_count": 8,
+    "forks_count": 43
+  },
+  {
     "full_name": "koleror/django-admin-views",
     "stargazers_count": 135,
     "open_issues_count": 11,
@@ -7,26 +13,26 @@
   },
   {
     "full_name": "agronholm/sqlacodegen",
-    "stargazers_count": 1197,
-    "open_issues_count": 25,
-    "forks_count": 187
+    "stargazers_count": 1199,
+    "open_issues_count": 27,
+    "forks_count": 189
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 2375,
-    "open_issues_count": 66,
+    "stargazers_count": 2424,
+    "open_issues_count": 71,
     "forks_count": 54
   },
   {
     "full_name": "michelcrypt4d4mus/pdfalyzer",
-    "stargazers_count": 113,
+    "stargazers_count": 116,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "python-humanize/humanize",
-    "stargazers_count": 141,
-    "open_issues_count": 12,
+    "stargazers_count": 143,
+    "open_issues_count": 14,
     "forks_count": 29
   },
   {
@@ -37,19 +43,19 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 4252,
-    "open_issues_count": 30,
-    "forks_count": 72
+    "stargazers_count": 4458,
+    "open_issues_count": 31,
+    "forks_count": 77
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 3959,
-    "open_issues_count": 246,
-    "forks_count": 142
+    "stargazers_count": 3997,
+    "open_issues_count": 242,
+    "forks_count": 145
   },
   {
     "full_name": "parvardegr/sharing",
-    "stargazers_count": 1136,
+    "stargazers_count": 1152,
     "open_issues_count": 1,
     "forks_count": 46
   },
@@ -61,50 +67,50 @@
   },
   {
     "full_name": "brandtbucher/specialist",
-    "stargazers_count": 377,
-    "open_issues_count": 1,
-    "forks_count": 8
+    "stargazers_count": 407,
+    "open_issues_count": 2,
+    "forks_count": 10
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 2306,
-    "open_issues_count": 50,
+    "stargazers_count": 2478,
+    "open_issues_count": 51,
     "forks_count": 51
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 147552,
-    "open_issues_count": 284,
-    "forks_count": 38007
+    "stargazers_count": 147667,
+    "open_issues_count": 99,
+    "forks_count": 38096
   },
   {
     "full_name": "adamghill/django-fbv",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "jefftriplett/django-startproject",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "pallets/quart",
-    "stargazers_count": 1424,
-    "open_issues_count": 10,
-    "forks_count": 84
+    "stargazers_count": 1429,
+    "open_issues_count": 9,
+    "forks_count": 85
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 4002,
-    "open_issues_count": 41,
-    "forks_count": 51
+    "stargazers_count": 4016,
+    "open_issues_count": 43,
+    "forks_count": 52
   },
   {
     "full_name": "pypa/hatch",
-    "stargazers_count": 3160,
-    "open_issues_count": 23,
+    "stargazers_count": 3172,
+    "open_issues_count": 18,
     "forks_count": 144
   },
   {
@@ -115,39 +121,39 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 2830,
+    "stargazers_count": 2834,
     "open_issues_count": 22,
-    "forks_count": 297
+    "forks_count": 299
   },
   {
     "full_name": "Opus10/django-pgtrigger",
     "stargazers_count": 354,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 2825,
+    "stargazers_count": 2833,
     "open_issues_count": 20,
-    "forks_count": 561
+    "forks_count": 567
   },
   {
     "full_name": "raimon49/pip-licenses",
-    "stargazers_count": 206,
+    "stargazers_count": 207,
     "open_issues_count": 18,
-    "forks_count": 27
+    "forks_count": 29
   },
   {
     "full_name": "rtts/djhtml",
-    "stargazers_count": 357,
+    "stargazers_count": 360,
     "open_issues_count": 5,
     "forks_count": 22
   },
   {
     "full_name": "Riverside-Healthcare/djLint",
-    "stargazers_count": 198,
-    "open_issues_count": 25,
-    "forks_count": 27
+    "stargazers_count": 206,
+    "open_issues_count": 28,
+    "forks_count": 29
   },
   {
     "full_name": "py-cov-action/python-coverage-comment-action",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "orgoro/coverage",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "moyix/fauxpilot",
-    "stargazers_count": 6826,
-    "open_issues_count": 34,
-    "forks_count": 280
+    "stargazers_count": 6853,
+    "open_issues_count": 35,
+    "forks_count": 281
   },
   {
     "full_name": "shallwefootball/upload-s3-action",
-    "stargazers_count": 81,
-    "open_issues_count": 23,
+    "stargazers_count": 82,
+    "open_issues_count": 24,
     "forks_count": 85
-  },
-  {
-    "full_name": "trpc/trpc",
-    "stargazers_count": 14465,
-    "open_issues_count": 72,
-    "forks_count": 457
   }
 ]
