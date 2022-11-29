@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "willmcgugan/faqtory",
+    "stargazers_count": 38,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "coollabsio/coolify",
+    "stargazers_count": 5169,
+    "open_issues_count": 126,
+    "forks_count": 256
+  },
+  {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 154,
+    "stargazers_count": 158,
     "open_issues_count": 5,
     "forks_count": 12
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 31933,
+    "stargazers_count": 32060,
     "open_issues_count": 99,
-    "forks_count": 5271
+    "forks_count": 5301
   },
   {
     "full_name": "danielgatis/rembg",
-    "stargazers_count": 7384,
-    "open_issues_count": 27,
-    "forks_count": 934
+    "stargazers_count": 7453,
+    "open_issues_count": 24,
+    "forks_count": 944
   },
   {
     "full_name": "jointakahe/takahe",
-    "stargazers_count": 414,
-    "open_issues_count": 8,
-    "forks_count": 23
+    "stargazers_count": 521,
+    "open_issues_count": 11,
+    "forks_count": 27
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 4736,
-    "open_issues_count": 43,
-    "forks_count": 196
+    "stargazers_count": 4802,
+    "open_issues_count": 50,
+    "forks_count": 205
   },
   {
     "full_name": "lincolnloop/django-production",
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "andrewgodwin/yamdl",
-    "stargazers_count": 52,
+    "stargazers_count": 54,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -49,8 +61,8 @@
   },
   {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 696,
-    "open_issues_count": 13,
+    "stargazers_count": 697,
+    "open_issues_count": 6,
     "forks_count": 43
   },
   {
@@ -61,15 +73,15 @@
   },
   {
     "full_name": "agronholm/sqlacodegen",
-    "stargazers_count": 1222,
-    "open_issues_count": 26,
+    "stargazers_count": 1224,
+    "open_issues_count": 27,
     "forks_count": 193
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 2610,
-    "open_issues_count": 72,
-    "forks_count": 67
+    "stargazers_count": 2653,
+    "open_issues_count": 66,
+    "forks_count": 69
   },
   {
     "full_name": "michelcrypt4d4mus/pdfalyzer",
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "python-humanize/humanize",
-    "stargazers_count": 152,
+    "stargazers_count": 154,
     "open_issues_count": 13,
     "forks_count": 30
   },
@@ -91,45 +103,45 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 4822,
-    "open_issues_count": 44,
-    "forks_count": 89
+    "stargazers_count": 4907,
+    "open_issues_count": 46,
+    "forks_count": 91
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4104,
-    "open_issues_count": 270,
+    "stargazers_count": 4118,
+    "open_issues_count": 262,
     "forks_count": 157
   },
   {
     "full_name": "parvardegr/sharing",
-    "stargazers_count": 1185,
+    "stargazers_count": 1186,
     "open_issues_count": 1,
     "forks_count": 49
   },
   {
     "full_name": "kolofordjango/kolo",
-    "stargazers_count": 243,
+    "stargazers_count": 245,
     "open_issues_count": 13,
     "forks_count": 7
   },
   {
     "full_name": "brandtbucher/specialist",
-    "stargazers_count": 458,
+    "stargazers_count": 461,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 3351,
-    "open_issues_count": 70,
-    "forks_count": 77
+    "stargazers_count": 3438,
+    "open_issues_count": 66,
+    "forks_count": 82
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 149148,
-    "open_issues_count": 109,
-    "forks_count": 38330
+    "stargazers_count": 149330,
+    "open_issues_count": 111,
+    "forks_count": 38355
   },
   {
     "full_name": "adamghill/django-fbv",
@@ -145,20 +157,20 @@
   },
   {
     "full_name": "pallets/quart",
-    "stargazers_count": 1468,
+    "stargazers_count": 1475,
     "open_issues_count": 11,
     "forks_count": 86
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 4159,
-    "open_issues_count": 41,
+    "stargazers_count": 4168,
+    "open_issues_count": 42,
     "forks_count": 52
   },
   {
     "full_name": "pypa/hatch",
-    "stargazers_count": 3270,
-    "open_issues_count": 22,
+    "stargazers_count": 3287,
+    "open_issues_count": 24,
     "forks_count": 152
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "actions/github-script",
-    "stargazers_count": 2876,
-    "open_issues_count": 23,
-    "forks_count": 305
-  },
-  {
-    "full_name": "Opus10/django-pgtrigger",
-    "stargazers_count": 358,
-    "open_issues_count": 14,
-    "forks_count": 17
   }
 ]
