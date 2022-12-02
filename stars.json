@@ -1,45 +1,51 @@
 [
   {
+    "full_name": "tdsmith/homebrew-pypi-poet",
+    "stargazers_count": 120,
+    "open_issues_count": 14,
+    "forks_count": 32
+  },
+  {
     "full_name": "willmcgugan/faqtory",
-    "stargazers_count": 38,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 77,
+    "open_issues_count": 3,
+    "forks_count": 6
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 5169,
-    "open_issues_count": 126,
-    "forks_count": 256
+    "stargazers_count": 5198,
+    "open_issues_count": 122,
+    "forks_count": 259
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 158,
-    "open_issues_count": 5,
+    "stargazers_count": 160,
+    "open_issues_count": 6,
     "forks_count": 12
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 32060,
-    "open_issues_count": 99,
-    "forks_count": 5301
+    "stargazers_count": 32144,
+    "open_issues_count": 103,
+    "forks_count": 5311
   },
   {
     "full_name": "danielgatis/rembg",
-    "stargazers_count": 7453,
+    "stargazers_count": 7496,
     "open_issues_count": 24,
-    "forks_count": 944
+    "forks_count": 951
   },
   {
     "full_name": "jointakahe/takahe",
-    "stargazers_count": 521,
-    "open_issues_count": 11,
-    "forks_count": 27
+    "stargazers_count": 557,
+    "open_issues_count": 10,
+    "forks_count": 29
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 4802,
-    "open_issues_count": 50,
-    "forks_count": 205
+    "stargazers_count": 4862,
+    "open_issues_count": 52,
+    "forks_count": 211
   },
   {
     "full_name": "lincolnloop/django-production",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 697,
+    "stargazers_count": 699,
     "open_issues_count": 6,
     "forks_count": 43
   },
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "agronholm/sqlacodegen",
-    "stargazers_count": 1224,
+    "stargazers_count": 1229,
     "open_issues_count": 27,
     "forks_count": 193
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 2653,
-    "open_issues_count": 66,
-    "forks_count": 69
+    "stargazers_count": 2664,
+    "open_issues_count": 57,
+    "forks_count": 72
   },
   {
     "full_name": "michelcrypt4d4mus/pdfalyzer",
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "python-humanize/humanize",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 13,
     "forks_count": 30
   },
@@ -103,45 +109,45 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 4907,
-    "open_issues_count": 46,
-    "forks_count": 91
+    "stargazers_count": 4974,
+    "open_issues_count": 45,
+    "forks_count": 95
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4118,
-    "open_issues_count": 262,
-    "forks_count": 157
+    "stargazers_count": 4133,
+    "open_issues_count": 254,
+    "forks_count": 159
   },
   {
     "full_name": "parvardegr/sharing",
-    "stargazers_count": 1186,
+    "stargazers_count": 1195,
     "open_issues_count": 1,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "kolofordjango/kolo",
-    "stargazers_count": 245,
+    "stargazers_count": 246,
     "open_issues_count": 13,
     "forks_count": 7
   },
   {
     "full_name": "brandtbucher/specialist",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 3438,
-    "open_issues_count": 66,
-    "forks_count": 82
+    "stargazers_count": 3552,
+    "open_issues_count": 65,
+    "forks_count": 85
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 149330,
-    "open_issues_count": 111,
-    "forks_count": 38355
+    "stargazers_count": 149477,
+    "open_issues_count": 110,
+    "forks_count": 38387
   },
   {
     "full_name": "adamghill/django-fbv",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "pallets/quart",
-    "stargazers_count": 1475,
+    "stargazers_count": 1481,
     "open_issues_count": 11,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 4168,
-    "open_issues_count": 42,
-    "forks_count": 52
+    "stargazers_count": 4188,
+    "open_issues_count": 40,
+    "forks_count": 54
   },
   {
     "full_name": "pypa/hatch",
-    "stargazers_count": 3287,
-    "open_issues_count": 24,
-    "forks_count": 152
-  },
-  {
-    "full_name": "Kludex/gh-co-author",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 3326,
+    "open_issues_count": 28,
+    "forks_count": 154
   }
 ]
