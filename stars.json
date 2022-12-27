@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "justinmayer/django-hype",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "gvalkov/setuptools-py2cfg",
     "stargazers_count": 48,
     "open_issues_count": 5,
@@ -13,69 +19,69 @@
   },
   {
     "full_name": "charliermarsh/ruff-pre-commit",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "step-security/wait-for-secrets",
-    "stargazers_count": 212,
+    "stargazers_count": 213,
     "open_issues_count": 12,
     "forks_count": 10
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 1546,
+    "stargazers_count": 1586,
     "open_issues_count": 14,
     "forks_count": 13
   },
   {
     "full_name": "tdsmith/homebrew-pypi-poet",
-    "stargazers_count": 121,
+    "stargazers_count": 120,
     "open_issues_count": 14,
     "forks_count": 33
   },
   {
     "full_name": "willmcgugan/faqtory",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 5311,
+    "stargazers_count": 5331,
     "open_issues_count": 152,
-    "forks_count": 270
+    "forks_count": 274
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 167,
+    "stargazers_count": 169,
     "open_issues_count": 5,
     "forks_count": 13
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 32841,
-    "open_issues_count": 112,
-    "forks_count": 5450
+    "stargazers_count": 32960,
+    "open_issues_count": 100,
+    "forks_count": 5473
   },
   {
     "full_name": "danielgatis/rembg",
-    "stargazers_count": 7673,
-    "open_issues_count": 24,
-    "forks_count": 980
+    "stargazers_count": 7694,
+    "open_issues_count": 23,
+    "forks_count": 986
   },
   {
     "full_name": "jointakahe/takahe",
-    "stargazers_count": 668,
-    "open_issues_count": 28,
-    "forks_count": 40
+    "stargazers_count": 685,
+    "open_issues_count": 41,
+    "forks_count": 43
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 5158,
-    "open_issues_count": 64,
-    "forks_count": 230
+    "stargazers_count": 5186,
+    "open_issues_count": 66,
+    "forks_count": 232
   },
   {
     "full_name": "lincolnloop/django-production",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 710,
+    "stargazers_count": 711,
     "open_issues_count": 6,
     "forks_count": 43
   },
@@ -110,12 +116,12 @@
   {
     "full_name": "agronholm/sqlacodegen",
     "stargazers_count": 1250,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 194
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 2847,
+    "stargazers_count": 2868,
     "open_issues_count": 80,
     "forks_count": 80
   },
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "python-humanize/humanize",
-    "stargazers_count": 168,
-    "open_issues_count": 13,
-    "forks_count": 30
+    "stargazers_count": 169,
+    "open_issues_count": 14,
+    "forks_count": 32
   },
   {
     "full_name": "andrewp-as-is/django-timesince.py",
@@ -139,26 +145,26 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5169,
-    "open_issues_count": 48,
-    "forks_count": 107
+    "stargazers_count": 5307,
+    "open_issues_count": 49,
+    "forks_count": 110
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4405,
-    "open_issues_count": 275,
-    "forks_count": 169
+    "stargazers_count": 4471,
+    "open_issues_count": 288,
+    "forks_count": 168
   },
   {
     "full_name": "parvardegr/sharing",
-    "stargazers_count": 1216,
+    "stargazers_count": 1217,
     "open_issues_count": 3,
     "forks_count": 50
   },
   {
     "full_name": "kolofordjango/kolo",
     "stargazers_count": 249,
-    "open_issues_count": 17,
+    "open_issues_count": 15,
     "forks_count": 7
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 4426,
-    "open_issues_count": 93,
-    "forks_count": 110
-  },
-  {
-    "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 150224,
-    "open_issues_count": 117,
-    "forks_count": 38586
+    "stargazers_count": 4707,
+    "open_issues_count": 87,
+    "forks_count": 115
   }
 ]
