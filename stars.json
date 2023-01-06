@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nativefier/nativefier",
-    "stargazers_count": 32532,
-    "open_issues_count": 211,
-    "forks_count": 2063
+    "stargazers_count": 32569,
+    "open_issues_count": 213,
+    "forks_count": 2064
   },
   {
     "full_name": "justinmayer/django-hype",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "MichaelAquilina/zsh-you-should-use",
-    "stargazers_count": 954,
+    "stargazers_count": 957,
     "open_issues_count": 12,
     "forks_count": 31
   },
   {
     "full_name": "charliermarsh/ruff-pre-commit",
-    "stargazers_count": 37,
+    "stargazers_count": 41,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "step-security/wait-for-secrets",
-    "stargazers_count": 216,
+    "stargazers_count": 221,
     "open_issues_count": 12,
     "forks_count": 10
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 1687,
+    "stargazers_count": 1720,
     "open_issues_count": 14,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "tdsmith/homebrew-pypi-poet",
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "willmcgugan/faqtory",
-    "stargazers_count": 142,
+    "stargazers_count": 144,
     "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 5358,
-    "open_issues_count": 156,
+    "stargazers_count": 5380,
+    "open_issues_count": 161,
     "forks_count": 275
   },
   {
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33162,
-    "open_issues_count": 99,
-    "forks_count": 5513
+    "stargazers_count": 33244,
+    "open_issues_count": 101,
+    "forks_count": 5526
   },
   {
     "full_name": "danielgatis/rembg",
-    "stargazers_count": 7760,
-    "open_issues_count": 18,
-    "forks_count": 993
+    "stargazers_count": 7793,
+    "open_issues_count": 17,
+    "forks_count": 994
   },
   {
     "full_name": "jointakahe/takahe",
-    "stargazers_count": 704,
-    "open_issues_count": 49,
-    "forks_count": 47
+    "stargazers_count": 714,
+    "open_issues_count": 52,
+    "forks_count": 49
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 5245,
-    "open_issues_count": 65,
-    "forks_count": 240
+    "stargazers_count": 5268,
+    "open_issues_count": 63,
+    "forks_count": 242
   },
   {
     "full_name": "lincolnloop/django-production",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "andrewgodwin/yamdl",
-    "stargazers_count": 55,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "agronholm/sqlacodegen",
-    "stargazers_count": 1254,
+    "stargazers_count": 1257,
     "open_issues_count": 28,
-    "forks_count": 194
+    "forks_count": 195
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 2897,
-    "open_issues_count": 90,
-    "forks_count": 81
+    "stargazers_count": 2925,
+    "open_issues_count": 97,
+    "forks_count": 84
   },
   {
     "full_name": "michelcrypt4d4mus/pdfalyzer",
@@ -140,7 +140,7 @@
   {
     "full_name": "python-humanize/humanize",
     "stargazers_count": 172,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 33
   },
   {
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5349,
-    "open_issues_count": 52,
-    "forks_count": 112
+    "stargazers_count": 5455,
+    "open_issues_count": 48,
+    "forks_count": 114
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4535,
-    "open_issues_count": 289,
+    "stargazers_count": 4561,
+    "open_issues_count": 294,
     "forks_count": 169
   },
   {
     "full_name": "parvardegr/sharing",
-    "stargazers_count": 1220,
+    "stargazers_count": 1223,
     "open_issues_count": 3,
     "forks_count": 51
   },
   {
     "full_name": "kolofordjango/kolo",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 15,
     "forks_count": 7
   },
   {
     "full_name": "brandtbucher/specialist",
-    "stargazers_count": 493,
+    "stargazers_count": 496,
     "open_issues_count": 2,
     "forks_count": 9
   }
