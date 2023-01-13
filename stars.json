@@ -1,51 +1,51 @@
 [
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 1200,
-    "open_issues_count": 23,
+    "stargazers_count": 1209,
+    "open_issues_count": 22,
     "forks_count": 29
   },
   {
     "full_name": "nativefier/nativefier",
-    "stargazers_count": 32595,
+    "stargazers_count": 32611,
     "open_issues_count": 216,
-    "forks_count": 2064
+    "forks_count": 2065
   },
   {
     "full_name": "justinmayer/django-hype",
     "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "gvalkov/setuptools-py2cfg",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "MichaelAquilina/zsh-you-should-use",
-    "stargazers_count": 960,
-    "open_issues_count": 12,
+    "stargazers_count": 961,
+    "open_issues_count": 13,
     "forks_count": 31
   },
   {
     "full_name": "charliermarsh/ruff-pre-commit",
-    "stargazers_count": 41,
+    "stargazers_count": 44,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "step-security/wait-for-secrets",
-    "stargazers_count": 235,
+    "stargazers_count": 244,
     "open_issues_count": 5,
     "forks_count": 11
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 1746,
+    "stargazers_count": 1862,
     "open_issues_count": 14,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "tdsmith/homebrew-pypi-poet",
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "willmcgugan/faqtory",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 5395,
-    "open_issues_count": 165,
-    "forks_count": 275
+    "stargazers_count": 5411,
+    "open_issues_count": 162,
+    "forks_count": 280
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 5,
     "forks_count": 13
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 33326,
-    "open_issues_count": 108,
-    "forks_count": 5545
+    "stargazers_count": 33412,
+    "open_issues_count": 103,
+    "forks_count": 5565
   },
   {
     "full_name": "danielgatis/rembg",
-    "stargazers_count": 7850,
-    "open_issues_count": 19,
-    "forks_count": 997
+    "stargazers_count": 7911,
+    "open_issues_count": 20,
+    "forks_count": 998
   },
   {
     "full_name": "jointakahe/takahe",
-    "stargazers_count": 728,
-    "open_issues_count": 48,
+    "stargazers_count": 734,
+    "open_issues_count": 55,
     "forks_count": 51
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 5285,
-    "open_issues_count": 64,
-    "forks_count": 248
+    "stargazers_count": 5301,
+    "open_issues_count": 65,
+    "forks_count": 250
   },
   {
     "full_name": "lincolnloop/django-production",
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 711,
-    "open_issues_count": 7,
+    "stargazers_count": 712,
+    "open_issues_count": 8,
     "forks_count": 43
   },
   {
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "agronholm/sqlacodegen",
-    "stargazers_count": 1259,
+    "stargazers_count": 1260,
     "open_issues_count": 28,
     "forks_count": 195
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 2935,
+    "stargazers_count": 2953,
     "open_issues_count": 101,
     "forks_count": 86
   },
@@ -146,8 +146,8 @@
   {
     "full_name": "python-humanize/humanize",
     "stargazers_count": 173,
-    "open_issues_count": 18,
-    "forks_count": 34
+    "open_issues_count": 17,
+    "forks_count": 35
   },
   {
     "full_name": "andrewp-as-is/django-timesince.py",
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5542,
+    "stargazers_count": 5648,
     "open_issues_count": 49,
     "forks_count": 115
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4580,
-    "open_issues_count": 288,
-    "forks_count": 169
+    "stargazers_count": 4600,
+    "open_issues_count": 292,
+    "forks_count": 170
   },
   {
     "full_name": "parvardegr/sharing",
-    "stargazers_count": 1222,
+    "stargazers_count": 1225,
     "open_issues_count": 3,
     "forks_count": 51
   },
